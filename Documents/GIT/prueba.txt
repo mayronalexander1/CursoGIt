@@ -1,0 +1,3 @@
+Hola mi gente se supone que estos cambios aun no se regiustran en git hub, solamente en git
+
+aqui va salir todo en verde en teoria 
